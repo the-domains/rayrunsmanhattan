@@ -2,10 +2,17 @@
     <channel>
         <title><![CDATA[RayRunsManhattan]]></title>
         <description><![CDATA[RayRunsManhattan]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/rayrunsmanhattan/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 22 Feb 2016 23:52:25 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 22 Feb 2016 23:53:06 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/rayrunsmanhattan/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Home]]></title>
+            <description><![CDATA[<article><h1>Home</h1><p>Marathon registration opens in early March - September 10</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/2d1d3fbe0755d969def439d7f48ea334792089f2.jpg"></article>]]></description>
+            <link>http://www.marathondumedoc.com/index.php?view=article&amp;id=66&amp;tmpl=index_en</link>
+            <guid isPermaLink="false">1f82bfdb-640e-4828-b8cc-8925f78f9652</guid>
+            <pubDate>Mon, 22 Feb 2016 23:52:27 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[NYC Half: 2016 United Airlines NYC Half]]></title>
             <description><![CDATA[<article><h1>NYC Half: 2016 United Airlines NYC Half</h1><p>The 2016 United Airlines NYC Half will take runners from around the city and the globe on a 13.1-mile tour of NYC. Led by a talent-packed roster of American and international elites, runners will stop traffic in Manhattan, from Central Park through Times Square to South Street Seaport!</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/18e3bdb1aeede63f996528bd5e32fc0131a2d93e.png"></article>]]></description>
