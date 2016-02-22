@@ -1,0 +1,18 @@
+analytics: {}
+color:
+  brandColors:
+    - '#E0E8D0'
+    - '#3E6321'
+    - '#789088'
+    - '#68A838'
+    - '#000000'
+  brandStrength: 0.6554171730085671
+  lightness: 0.42080595237325635
+  rhythmicContrast: 0.4832133282219777
+  saturation: 0.5810948130174729
+cta: {}
+layout_spectrum: 0.474506
+name: RayRunsManhattan
+opengraph: {}
+purpose: {}
+typography_spectrum: 0.317434
